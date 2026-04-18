@@ -1,3 +1,42 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+body {
+  background-color: #f8f5ef;
+  color: #2b2b2b;
+}
+
+h1, h2, h3, h4 {
+  color: #5a1f1f;
+  letter-spacing: 0.4px;
+}
+
+.page-title {
+  color: #5a1f1f;
+  font-weight: 700;
+}
+
+blockquote {
+  border-left: 4px solid #8b6b4a;
+  background: #f3ece2;
+  padding: 1rem;
+  font-style: italic;
+}
+
+a {
+  color: #7b1e1e;
+}
+
+a:hover {
+  color: #b03030;
+}
+
+.sidebar {
+  background-color: #f2eee8;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
