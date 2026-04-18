@@ -2,69 +2,98 @@
 
 ![[Images/pharmacie.jpg]]
 
-> *Secrets. Désirs. Rivalités. Bienvenue à Peyton Place.*
+> *Bienvenue dans la ville où chacun cache un secret.*
 
 ---
 
-## 🎬 La série
+## 🎬 Archive officielle non officielle
 
-**Peyton Place** est l’un des feuilletons américains les plus marquants des années 1960.  
-Diffusée de **1964 à 1969**, la série mêle drame familial, romance, scandales et conflits sociaux dans une petite ville où personne n’est irréprochable.
+Cette archive indépendante reconstitue l’univers complet de **Peyton Place**, série culte diffusée de **1964 à 1969**.
+
+Vous y trouverez :
+
+- résumés détaillés des épisodes  
+- fiches personnages  
+- lieux emblématiques  
+- continuité narrative  
+- exploration chronologique de la série
 
 ---
 
-## 🚪 Entrer dans l’archive
+# 🚪 Explorer l’univers
 
-### 📺 Episodes
-Retrouvez les résumés détaillés et la continuité complète.
+## 📺 Episodes
+La série complète, résumée et organisée.
 
 👉 [[Episodes]]
 
----
-
-### 👥 Personnages
-Les figures majeures, familles rivales et habitants emblématiques.
+## 👥 Personnages
+Familles, héros, rivaux et habitants.
 
 👉 [[Personnages]]
 
----
-
-### 📍 Lieux
-Les maisons, hôpital, tavernes et lieux clés de Peyton Place.
+## 📍 Lieux
+Les décors majeurs de Peyton Place.
 
 👉 [[Lieux]]
 
 ---
 
-## 🆕 Explorer maintenant
+# 🆕 Commencer maintenant
 
-- Consultez les **notes récentes** dans la colonne du site  
-- Utilisez la **recherche** en haut de page  
-- Naviguez entre épisodes et personnages grâce aux liens internes
+### Nouvel arrivant ?
+Commencez par les personnages principaux.
 
----
+👉 [[Personnages]]
 
-## ⭐ L’archive en chiffres
-
-- Plus de 500 épisodes
-- Des centaines de personnages
-- Une continuité reconstituée
-- Une archive en expansion régulière
-
----
-
-## 🎞️ Suggestion du jour
-
-Commencez par un épisode charnière… puis suivez les liens.
+### Fan de feuilletons ?
+Parcourez les épisodes dans l’ordre.
 
 👉 [[Episodes]]
 
+### Curieux de l’univers ?
+Explorez la ville.
+
+👉 [[Lieux]]
+
 ---
 
-## 🕰️ Héritage
+# ⭐ Pourquoi Peyton Place compte encore
 
-Avant les soaps modernes, il y eut **Peyton Place**.
+Avant *Dallas*, avant les soaps modernes, **Peyton Place** a imposé :
+
+- les secrets familiaux  
+- les romances interdites  
+- les luttes de pouvoir  
+- les drames à suivre semaine après semaine
 
 ---
 
-> *“À Peyton Place, les apparences mentent toujours.”*
+# 📊 L’archive en chiffres
+
+- +500 épisodes archivés
+- nombreux personnages indexés
+- mises à jour régulières
+- navigation interconnectée
+
+---
+
+# 🔎 Conseil de navigation
+
+Utilisez la recherche du site pour taper :
+
+- Allison  
+- Rodney  
+- épisode 152  
+- Harrington  
+- Betty  
+
+---
+
+# 🕰️ Héritage télévisuel
+
+Sans Peyton Place, la télévision feuilletonnante moderne serait différente.
+
+---
+
+> *“Dans cette ville, la vérité finit toujours par sortir.”*
