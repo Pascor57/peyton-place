@@ -35,3 +35,13 @@ img {
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(0,0,0,0.15);
 }
+
+/* Masquer les blocs Dataview sur le site */
+pre:has(code.language-dataview),
+pre:has(code.language-dataviewjs),
+code.language-dataview,
+code.language-dataviewjs,
+.block-language-dataview,
+.block-language-dataviewjs {
+  display: none !important;
+}
