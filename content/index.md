@@ -1,86 +1,103 @@
 # Peyton Place
 
-![[Images/homepage.jpg]]
+![[Images/pharmacie.jpg]]
 
-> *Une ville paisible en apparence. Un monde de passions en réalité.*
-
----
-
-# 🌟 Bienvenue à Peyton Place
-
-Entre respectabilité, scandales, amours contrariées et rivalités familiales, **Peyton Place** demeure l’un des feuilletons fondateurs de la télévision moderne.
-
-Diffusée de **1964 à 1969**, la série a captivé des millions de téléspectateurs avec ses personnages complexes et ses intrigues entremêlées.
+> *Bienvenue dans la ville où rien ne reste secret très longtemps.*
 
 ---
 
-# 🚪 Choisissez votre porte d’entrée
+# 🌟 L’archive Peyton Place
 
-## 📺 Explorer les épisodes
-Revivez la série pas à pas.
+Cette archive indépendante est consacrée à **Peyton Place**, série emblématique diffusée de **1964 à 1969**, pionnière du feuilleton dramatique moderne.
+
+Elle rassemble un travail de documentation approfondi autour de la série :
+
+- résumés détaillés des épisodes  
+- fiches personnages interconnectées  
+- lieux emblématiques  
+- continuité narrative  
+- exploration chronologique complète
+
+---
+
+# 🚪 Explorer immédiatement
+
+## 📺 Episodes
+
+Parcourez la série dans l’ordre de diffusion et retrouvez chaque intrigue majeure.
 
 👉 [[Episodes]]
 
 ---
 
-## 👥 Rencontrer les habitants
-Découvrez les familles, alliés, ennemis et amants.
+## 👥 Personnages
+
+Familles influentes, héros romantiques, rivaux et habitants de Peyton Place.
 
 👉 [[Personnages]]
 
 ---
 
-## 📍 Visiter la ville
-Manoirs, hôpital, tavernes, rues et secrets.
+## 📍 Lieux
+
+Des demeures prestigieuses aux lieux de scandale : explorez la ville.
 
 👉 [[Lieux]]
 
 ---
 
-# 🎞️ Pourquoi cette série est culte
+# ⭐ Pourquoi Peyton Place est historique
 
-**Peyton Place** a ouvert la voie aux grandes sagas télévisées modernes :
+Bien avant les soaps modernes et les grandes sagas télévisées, la série a imposé :
 
-- conflits générationnels  
-- secrets de famille  
-- tensions sociales  
-- romances impossibles  
-- drames continus
-
----
-
-# 🆕 Commencez maintenant
-
-### Nouveau visiteur
-👉 [[Personnages]]
-
-### Amateur de chronologie
-👉 [[Episodes]]
-
-### Passionné d’univers fictionnels
-👉 [[Lieux]]
+- les drames feuilletonnants continus  
+- les secrets de famille  
+- les tensions sociales  
+- les romances contrariées  
+- les conflits générationnels
 
 ---
 
-# 📊 L’archive vivante
+# 📊 L’archive en chiffres
 
-- plus de 500 épisodes indexés  
-- personnages reliés entre eux  
-- continuité reconstituée  
-- nouvelles mises à jour régulières
-
----
-
-# 🕰️ Héritage
-
-Avant les soaps modernes… il y eut **Peyton Place**.
+- plus de 500 épisodes référencés  
+- nombreuses fiches personnages  
+- navigation interconnectée  
+- enrichissement régulier
 
 ---
 
-# 🎬 Suggestion du jour
+# 🆕 Suggestions de visite
 
-Ouvrez un épisode au hasard, suivez un lien de personnage… et laissez la série vous emporter.
+### Première visite ?
+👉 Commencez par [[Personnages]]
+
+### Envie de suivre la série ?
+👉 Ouvrez [[Episodes]]
+
+### Curiosité sur l’univers ?
+👉 Explorez [[Lieux]]
 
 ---
 
-> *“À Peyton Place, chaque sourire cache une blessure.”*
+# 🔎 Recherche rapide
+
+Utilisez la barre de recherche du site pour retrouver :
+
+Allison • Rodney • Betty • Harrington • épisode 152
+
+---
+
+# 🕰️ Héritage télévisuel
+
+Sans **Peyton Place**, les grandes séries familiales et soaps modernes auraient eu un autre visage.
+
+---
+
+# 🎬 Entrez dans la ville
+
+Choisissez une page… puis laissez les liens vous guider.
+
+---
+
+> *“À Peyton Place, les apparences tombent toujours.”*
