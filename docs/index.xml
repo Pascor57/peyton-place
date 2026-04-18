@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Peyton Place Plongez dans les secrets, les drames et les passions de Peyton Place. ]]></description>
+    <pubDate>Sat, 18 Apr 2026 08:48:16 GMT</pubDate>
+  </item><item>
     <title>Abby Chapman</title>
     <link>https://quartz.jzhao.xyz/Personnages/Abby-Chapman</link>
     <guid>https://quartz.jzhao.xyz/Personnages/Abby-Chapman</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Personnages/Christine-Gordon</link>
     <guid>https://quartz.jzhao.xyz/Personnages/Christine-Gordon</guid>
     <description><![CDATA[ Biographie Christine est la femme de chambre au manoir des Harrington, l’une des plus grandes demeures de Peyton Place. ]]></description>
-    <pubDate>Fri, 17 Apr 2026 16:33:50 GMT</pubDate>
-  </item><item>
-    <title>Claire Morton</title>
-    <link>https://quartz.jzhao.xyz/Personnages/Claire-Morton</link>
-    <guid>https://quartz.jzhao.xyz/Personnages/Claire-Morton</guid>
-    <description><![CDATA[ Claire Morton Claire Morton est la fille du docteur Robert Morton et de Grace Morton. ]]></description>
     <pubDate>Fri, 17 Apr 2026 16:33:50 GMT</pubDate>
   </item>
     </channel>
