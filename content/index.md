@@ -1,8 +1,6 @@
-TEST HOMEPAGE# Peyton Place
+# Peyton Place
 
-<p align="center">
-  <img src="/Images/pharmarcie.jpg" width="700">
-</p>
+![[Images/002-1.jpg]]
 
 > *Plongez dans les secrets, les drames et les passions de Peyton Place.*
 
@@ -61,7 +59,7 @@ Ce site a été construit comme une archive passionnée de la série, avec une a
 
 ## 🖼️ Aperçu
 
-![[Images/002-1.jpg]]
+![[Images/pharmacie.jpg]]
 
 ---
 
