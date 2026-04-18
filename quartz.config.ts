@@ -1,3 +1,4 @@
+import "./quartz/static/peyton-place.css"
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
