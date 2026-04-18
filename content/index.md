@@ -1,72 +1,61 @@
 # Peyton Place
 
-![[Images/002-1.jpg]]
+![[Images/homepage.jpg]]
 
-> *Plongez dans les secrets, les drames et les passions de Peyton Place.*
-
-Bienvenue sur cette archive complète dédiée à la série **Peyton Place (1964–1969)**.
-
-Ce site propose une base de données détaillée de la série :
-- résumés complets des épisodes  
-- fiches personnages  
-- lieux emblématiques  
-- continuité narrative  
+> *Bienvenue dans les secrets de Peyton Place.*
 
 ---
 
-## 🎬 Explorer la série
+## 📺 Derniers épisodes ajoutés
 
-### 📺 Épisodes
-Accédez à l’ensemble des épisodes avec résumés détaillés.
+- [[Episodes/Épisode 512]]
+- [[Episodes/Épisode 513]]
+- [[Episodes/Épisode 514]]
 
 👉 [[Episodes]]
 
 ---
 
-### 👥 Personnages
-Découvrez les figures marquantes de Peyton Place.
+## 👥 Personnages essentiels
+
+- [[Constance MacKenzie]]
+- [[Rodney Harrington]]
+- [[Allison MacKenzie]]
+- [[Betty Anderson]]
+- [[Steven Cord]]
 
 👉 [[Personnages]]
 
 ---
 
-### 📍 Lieux
-Explorez les lieux emblématiques de la série.
+## 📍 Explorer les lieux
+
+- [[Booke's Tavern]]
+- [[Peyton Mansion]]
+- [[Hôpital de Peyton Place]]
 
 👉 [[Lieux]]
 
 ---
 
-## ⭐ À propos du projet
+## 📊 L’archive en chiffres
 
-Ce site a été construit comme une archive passionnée de la série, avec une attention particulière portée à :
-
-- la continuité narrative  
-- la précision des événements  
-- la richesse des personnages  
+- 514 épisodes
+- 250 personnages
+- 80 lieux
 
 ---
 
-## 🔎 Navigation rapide
+## 🔎 Recherche
 
-- Derniers épisodes ajoutés  
-- Personnages principaux  
-- Intrigues majeures  
-
-*(Sections à venir)*
+Utilisez la barre de recherche du site en haut à gauche.
 
 ---
 
-## 🖼️ Aperçu
+## ⭐ Le saviez-vous ?
 
-![[Images/pharmacie.jpg]]
-
----
-
-## 📅 Mise à jour
-
-Ce site est régulièrement enrichi avec de nouveaux épisodes et contenus.
+La série fut l’un des premiers grands soap operas américains en prime time.
 
 ---
 
-> *“Peyton Place, where nothing is ever quite what it seems…”*
+> *“À Peyton Place, personne n’est innocent.”*
