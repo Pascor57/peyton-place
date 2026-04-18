@@ -1,61 +1,51 @@
 # Peyton Place
 
-![[Images/homepage.jpg]]
+![[Images/pharmacie.jpg]]
 
-> *Bienvenue dans les secrets de Peyton Place.*
-
----
-
-## 📺 Derniers épisodes ajoutés
-
-- [[Episodes/Épisode 512]]
-- [[Episodes/Épisode 513]]
-- [[Episodes/Épisode 514]]
-
-👉 [[Episodes]]
+> *Bienvenue dans les secrets, les passions et les scandales de Peyton Place.*
 
 ---
 
-## 👥 Personnages essentiels
+## 🎬 Explorer immédiatement
 
-- [[Constance MacKenzie]]
-- [[Rodney Harrington]]
-- [[Allison MacKenzie]]
-- [[Betty Anderson]]
-- [[Steven Cord]]
-
-👉 [[Personnages]]
+- [[Episodes]]
+- [[Personnages]]
+- [[Lieux]]
 
 ---
 
-## 📍 Explorer les lieux
+## 🆕 Nouveautés récentes
 
-- [[Booke's Tavern]]
-- [[Peyton Mansion]]
-- [[Hôpital de Peyton Place]]
-
-👉 [[Lieux]]
+Consultez les dernières pages ajoutées via la section **Recent Notes** du site.
 
 ---
 
-## 📊 L’archive en chiffres
+## 📺 Collection
 
-- 514 épisodes
-- 250 personnages
-- 80 lieux
+Une archive consacrée à la série culte diffusée de 1964 à 1969.
 
----
-
-## 🔎 Recherche
-
-Utilisez la barre de recherche du site en haut à gauche.
+- Résumés détaillés  
+- Fiches personnages  
+- Lieux emblématiques  
+- Continuité narrative
 
 ---
 
-## ⭐ Le saviez-vous ?
+## 🔎 Recherche instantanée
 
-La série fut l’un des premiers grands soap operas américains en prime time.
+Utilisez la barre de recherche en haut du site pour trouver :
+
+- un personnage  
+- un épisode  
+- un lieu  
+- une intrigue
 
 ---
 
-> *“À Peyton Place, personne n’est innocent.”*
+## ⭐ À découvrir aujourd’hui
+
+Choisissez un épisode au hasard dans la liste des épisodes et replongez dans Peyton Place.
+
+---
+
+> *“À Peyton Place, chacun cache quelque chose.”*
