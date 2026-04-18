@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/peyton-place.css">
+
 # Peyton Place
 
 ![[Images/pharmacie.jpg]]

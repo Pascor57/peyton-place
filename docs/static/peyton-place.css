@@ -1,0 +1,54 @@
+
+body {
+  background-color: #f8f5ef;
+  color: #2b2b2b;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4 {
+  color: #5a1f1f;
+  letter-spacing: 0.4px;
+}
+
+.page-title, h1 {
+  font-weight: 700;
+}
+
+blockquote {
+  border-left: 4px solid #8b6b4a;
+  background: #f3ece2;
+  padding: 1rem 1.2rem;
+  font-style: italic;
+}
+
+a {
+  color: #7b1e1e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b03030;
+  text-decoration: underline;
+}
+
+.sidebar {
+  background-color: #f2eee8;
+}
+
+article {
+  max-width: 860px;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #d8d0c8;
+  padding: 8px;
+}
